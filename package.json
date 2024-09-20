@@ -1,0 +1,16 @@
+{
+  "name": "hw2node",
+  "version": "1.0.0",
+  "main": "generatorNameVars",
+  "type": "module", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "translate": "^3.0.0"
+  }
+}
